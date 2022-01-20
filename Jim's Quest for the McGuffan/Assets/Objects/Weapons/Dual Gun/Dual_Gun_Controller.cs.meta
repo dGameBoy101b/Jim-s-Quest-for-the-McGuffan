@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 93b29b9de61a94d4d801a5ecbfda3737
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HURT_BOLT_PREFAB: {fileID: 554687768549792679, guid: 35c6a140adde3b94199ee5c10b66ffec,
+      type: 3}
+  - HEAL_BOLT_PREFAB: {fileID: 5132620094702070373, guid: 9c1d2ae9088cf99408c84471d098a72c,
+      type: 3}
+  - EFFECT_PREFAB: {fileID: 6411202062925768399, guid: dfc7a295efd5f6c49927760343a18e59,
+      type: 3}
+  - bolt_manager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
